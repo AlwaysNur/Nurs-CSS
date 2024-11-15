@@ -1,0 +1,21 @@
+/* ----------------------------------------Nurs CSS Lite:---------------------------------------- */
+/* ----------------------------------------Buttons:---------------------------------------- */
+button {
+    background-color: #5189fc;
+    border: none;
+    color: #ffffff;
+    font-size: 1em;
+  }
+  
+  button:hover {
+    background-color: #0345c9;
+  }
+  button {
+    width: 200px;
+    height: 60px;
+  }
+  button {
+    border-radius: 10px;
+  }
+  
+  
