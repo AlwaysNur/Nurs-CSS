@@ -46,6 +46,7 @@
   ```bash
   curl -O https://raw.githubusercontent.com/AlwaysNur/Nurs-CSS/refs/heads/main/dist/nurs-css-lite/nurs-css-lite.min.css
   ```
+[Download Minion](https://octodex.github.com/images/minion.png "download")
 
 
 
